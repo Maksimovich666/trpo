@@ -1,0 +1,14 @@
+D:\Olya\Предметы\ТРПО\ГАИ\ГАИ\ГАИ\bin\Debug\ГАИ.exe.config
+D:\Olya\Предметы\ТРПО\ГАИ\ГАИ\ГАИ\bin\Debug\ГАИ.exe
+D:\Olya\Предметы\ТРПО\ГАИ\ГАИ\ГАИ\bin\Debug\ГАИ.pdb
+D:\Olya\Предметы\ТРПО\ГАИ\ГАИ\ГАИ\obj\Debug\ГАИ.csprojAssemblyReference.cache
+D:\Olya\Предметы\ТРПО\ГАИ\ГАИ\ГАИ\obj\Debug\ГАИ.Enter.resources
+D:\Olya\Предметы\ТРПО\ГАИ\ГАИ\ГАИ\obj\Debug\ГАИ.Properties.Resources.resources
+D:\Olya\Предметы\ТРПО\ГАИ\ГАИ\ГАИ\obj\Debug\ГАИ.csproj.GenerateResource.cache
+D:\Olya\Предметы\ТРПО\ГАИ\ГАИ\ГАИ\obj\Debug\ГАИ.csproj.CoreCompileInputs.cache
+D:\Olya\Предметы\ТРПО\ГАИ\ГАИ\ГАИ\obj\Debug\ГАИ.exe
+D:\Olya\Предметы\ТРПО\ГАИ\ГАИ\ГАИ\obj\Debug\ГАИ.pdb
+D:\Olya\Предметы\ТРПО\ГАИ\ГАИ\ГАИ\obj\Debug\ГАИ.Operations.resources
+D:\Olya\Предметы\ТРПО\ГАИ\ГАИ\ГАИ\obj\Debug\ГАИ.Rules.resources
+D:\Olya\Предметы\ТРПО\ГАИ\ГАИ\ГАИ\obj\Debug\ГАИ.Violations.resources
+D:\Olya\Предметы\ТРПО\ГАИ\ГАИ\ГАИ\obj\Debug\ГАИ.Сitizen.resources
